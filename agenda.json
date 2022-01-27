@@ -1,0 +1,45 @@
+[{
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5200"
+    },
+    "dia": "2022-01-01",
+    "turno": "M",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "citas": [
+        "61f17ecb471ba266c5ae5100",
+        "61f17ecb471ba266c5ae5101",
+        "61f17ecb471ba266c5ae5102",
+        "61f17ecb471ba266c5ae5103",
+        "61f17ecb471ba266c5ae5104",
+        "61f17ecb471ba266c5ae5105",
+        "61f17ecb471ba266c5ae5106",
+        "61f17ecb471ba266c5ae5107",
+        "61f17ecb471ba266c5ae5108",
+        "61f17ecb471ba266c5ae5109",
+        "61f17ecb471ba266c5ae5110",
+        "61f17ecb471ba266c5ae5111"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5201"
+    },
+    "dia": "2022-01-01",
+    "turno": "M",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "citas": [
+        "61f17ecb471ba266c5ae5112",
+        "61f17ecb471ba266c5ae5113",
+        "61f17ecb471ba266c5ae5114",
+        "61f17ecb471ba266c5ae5115",
+        "61f17ecb471ba266c5ae5116",
+        "61f17ecb471ba266c5ae5117",
+        "61f17ecb471ba266c5ae5118",
+        "61f17ecb471ba266c5ae5119",
+        "61f17ecb471ba266c5ae5120",
+        "61f17ecb471ba266c5ae5121",
+        "61f17ecb471ba266c5ae5122",
+        "61f17ecb471ba266c5ae5123"
+    ]
+  }
+]

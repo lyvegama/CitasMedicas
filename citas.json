@@ -1,0 +1,308 @@
+[{
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5100"
+    },
+    "dia": "2022-01-01",
+    "hora": "08:00:00",
+    "start": "2022-01-01T08:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5101"
+    },
+    "dia": "2022-01-01",
+    "hora": "08:30:00",
+    "start": "2022-01-01T08:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5102"
+    },
+    "dia": "2022-01-01",
+    "hora": "09:00:00",
+    "start": "2022-01-01T09:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5103"
+    },
+    "dia": "2022-01-01",
+    "hora": "09:30:00",
+    "start": "2022-01-01T09:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5104"
+    },
+    "dia": "2022-01-01",
+    "hora": "10:00:00",
+    "start": "2022-01-01T10:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5105"
+    },
+    "dia": "2022-01-01",
+    "hora": "10:30:00",
+    "start": "2022-01-01T10:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5106"
+    },
+    "dia": "2022-01-01",
+    "hora": "11:00:00",
+    "start": "2022-01-01T11:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5107"
+    },
+    "dia": "2022-01-01",
+    "hora": "11:30:00",
+    "start": "2022-01-01T11:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5108"
+    },
+    "dia": "2022-01-01",
+    "hora": "12:00:00",
+    "start": "2022-01-01T12:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5109"
+    },
+    "dia": "2022-01-01",
+    "hora": "12:30:00",
+    "start": "2022-01-01T12:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5110"
+    },
+    "dia": "2022-01-01",
+    "hora": "13:00:00",
+    "start": "2022-01-01T13:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5111"
+    },
+    "dia": "2022-01-01",
+    "hora": "13:30:00",
+    "start": "2022-01-01T13:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5112"
+    },
+    "dia": "2022-01-01",
+    "hora": "08:00:00",
+    "start": "2022-01-01T08:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5113"
+    },
+    "dia": "2022-01-01",
+    "hora": "08:30:00",
+    "start": "2022-01-01T08:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5114"
+    },
+    "dia": "2022-01-01",
+    "hora": "09:00:00",
+    "start": "2022-01-01T09:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5115"
+    },
+    "dia": "2022-01-01",
+    "hora": "09:30:00",
+    "start": "2022-01-01T09:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5116"
+    },
+    "dia": "2022-01-01",
+    "hora": "10:00:00",
+    "start": "2022-01-01T10:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5117"
+    },
+    "dia": "2022-01-01",
+    "hora": "10:30:00",
+    "start": "2022-01-01T10:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5118"
+    },
+    "dia": "2022-01-01",
+    "hora": "11:00:00",
+    "start": "2022-01-01T11:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5119"
+    },
+    "dia": "2022-01-01",
+    "hora": "11:30:00",
+    "start": "2022-01-01T11:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5120"
+    },
+    "dia": "2022-01-01",
+    "hora": "12:00:00",
+    "start": "2022-01-01T12:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5121"
+    },
+    "dia": "2022-01-01",
+    "hora": "12:30:00",
+    "start": "2022-01-01T12:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5122"
+    },
+    "dia": "2022-01-01",
+    "hora": "13:00:00",
+    "start": "2022-01-01T13:00:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5123"
+    },
+    "dia": "2022-01-01",
+    "hora": "13:30:00",
+    "start": "2022-01-01T13:30:00",
+    "title": "",
+    "id_paciente": "",
+    "id_medico": "61f17f50471ba266c5ae5409",
+    "turno": "M",
+    "estado": "L"
+  }]

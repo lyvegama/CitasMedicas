@@ -1,0 +1,29 @@
+[{
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5408"
+    },
+    "nombre": "Ana",
+    "apellidos": "Pérez Ramírez",
+    "turno": "M"
+  },{
+    "_id": {
+      "$oid": "61f17f50471ba266c5ae5409"
+    },
+    "nombre": "Rafael",
+    "apellidos": "Díaz Hernández",
+    "turno": "M"
+  },{
+    "_id": {
+      "$oid": "61f17f65471ba266c5ae540a"
+    },
+    "nombre": "María Luisa",
+    "apellidos": "Ruíz del Castillo",
+    "turno": "T"
+  },{
+    "_id": {
+      "$oid": "61f17f82471ba266c5ae540b"
+    },
+    "nombre": "Carlos",
+    "apellidos": "Ricardo Ramírez",
+    "turno": "T"
+  }]

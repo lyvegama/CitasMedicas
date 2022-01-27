@@ -1,0 +1,36 @@
+[{
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5718"
+    },
+    "dni": "12345678A",
+    "pass": "1234",
+    "nombre": "Pepa",
+    "apellidos": "Antonia Martínez",
+    "turno": "M",
+    "id_medico": "61f17ecb471ba266c5ae5408",
+    "admin": false
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5719"
+    },
+    "dni": "12345678B",
+    "pass": "1234",
+    "nombre": "Luis",
+    "apellidos": "López Martínez",
+    "turno": "M",
+    "id_medico": "61f17ecb471ba266c5ae5409",
+    "admin": false
+  },
+  {
+    "_id": {
+      "$oid": "61f17ecb471ba266c5ae5720"
+    },
+    "dni": "12345678A",
+    "pass": "1234",
+    "nombre": "Juan",
+    "apellidos": "Antonia Martínez",
+    "turno": "",
+    "id_medico": "",
+    "admin": true
+  }]
